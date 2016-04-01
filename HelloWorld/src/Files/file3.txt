@@ -1,0 +1,4 @@
+XX123456CChecking for all the files in given folder.
+This should read all files in the folder and create another file file2.txt in temp folder where date would be replaced
+with sanitised date.today is 1/05/2003.
+for now its only for date. 

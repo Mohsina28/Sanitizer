@@ -1,0 +1,7 @@
+This is a sample file.
+Purpose is to check if application can read from this file.
+This file will contain all the information like dob,nino etc.
+Program has to locate DOB AB123456C and sanitise it. 21/03/2001
+If it succeeds to locate, I will try to make application read all the files in given folder.
+At the moment as its not clear what the log file is going to look like, app will try to read this flat text
+file.
